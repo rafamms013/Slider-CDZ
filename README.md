@@ -1,6 +1,5 @@
 <h1>Slider Cavaleiros do Zodíaco</h1>
 
-##
 
 Sobre:
 <p>Este projeto foi desenvolvido baseado no slider do Pokémon que fiz acompnhando a MapaDev Week, neste projeto também puder está aprimorando meus 
